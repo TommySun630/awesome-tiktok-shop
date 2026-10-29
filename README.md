@@ -99,6 +99,7 @@ TikTok Shop 的 GMV 很大一块来自达人带货内容，官方 2025 年推出
 
 - [TikTok Seller Center Analytics（罗盘）](https://seller-us.tiktok.com/university) — 你**自家店铺最准的实时数据**：GMV、订单、流量来源、转化率、直播/视频表现。看不了竞品，但自查必用，免费。
 - [TikTok Creative Center 创意中心](https://ads.tiktok.com/business/creativecenter/) — **官方免费神器**：按地区/品类筛选高表现 Top Ads，看热门音乐 / 话题 / 关键词，直接抄驱动销售的真实广告创意。
+- [RemakeThat](https://remakethat.com/) — 输入一条 TikTok/Facebook 爆款视频链接，AI 按原节奏写原创脚本并生成无脸带货短片（自选 AI 形象出镜），按订阅点数计费。
 - [Pentos](https://pentos.co/) — 趋势（声音/话题/视频）+ 竞品账号长期跟踪，**能突破原生 60 天历史限制**，做内容策略好用。
 - [Exolyt](https://exolyt.com/) — 账号/视频 360° 分析、Hashtag 深度、社会聆听、情感分析、多 KOL campaign 对比，**适合评估带货达人效果**。
 - [Google Trends](https://trends.google.com/) — 免费的宏观需求验证，**和 TikTok 站内趋势交叉验证**，判断一个品的需求是不是有持续力。
