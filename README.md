@@ -128,6 +128,8 @@ TikTok Shop 的 GMV 很大一块来自达人带货内容，官方 2025 年推出
 - [GMV Max 官方文档](https://ads.tiktok.com/help/article/about-product-gmv-max) — **AI 自动化广告**，自动用全部授权创意、优化付费 + 自然 + 联盟流量，你只设预算和目标 ROI。文档加 `?lang=zh` 切中文。
 - [Pipiads 广告间谍工具](https://www.pipiads.com/) — **全球最大 TikTok 广告库之一**，看竞品创意/落地页/赢家产品，投放前先侦察，避免盲目测试。约 $49+/月，有免费试用。中文版 [/zh](https://www.pipiads.com/zh)。
 
+- [Reelpeat 帧会卖](https://www.reelpeat.com/) — 用商品链接或图片制作带货短视频和广告素材，生成前可审阅脚本与分镜，提供试用积分，后续按用量计费。
+
 > 标准工作流：Pipiads 侦察竞品赢家广告 → Creative Center 找创意灵感 → Seller Center 建 Product/LIVE GMV Max，让 AI 自动跑。
 
 ---
