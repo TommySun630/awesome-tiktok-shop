@@ -79,6 +79,7 @@
 - [EchoTik](https://echotik.live/) — 商品库 + 达人筛选 + 直播监控 + 浏览器插件，**达人数据较全**，自带定价计算器，经常发免费的站点季报/半年报。
 - [Tabcut 特看](https://www.tabcut.com/) — TikTok Shop 爆品、达人与门店监测平台，也是 Momentum Works 多份美区/全球半年报的数据合作方，适合跟 Kalodata/FastMoss 交叉核验。
 - [Shoplus](https://www.shoplus.net/) — 趋势追踪、机会品发现、竞品洞察、红人营销，界面简洁，**适合个人卖家和中小团队**。
+- [Nolyn](https://www.nolyn.ai/) — 面向品牌和代运营的常驻增长团队，用 Amazon、TikTok Shop、Shopee 及社交数据追踪达人、活动和竞品，并做选品与定价研究，输出带来源的报告。有免费额度（100 次一次性积分，无需绑卡）。
 
 > 选型一句话：精准看达人选 EchoTik，看视频内容选 FastMoss，要直播 + 多站点选 Kalodata，做市场验证顺手对照 Tabcut，预算紧要简单选 Shoplus。先免费试用，按你的站点（US/UK/东南亚/欧盟/拉美/日本）挑。
 
